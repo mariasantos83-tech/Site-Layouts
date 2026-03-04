@@ -29,9 +29,12 @@
 
 .red {
     background-color: rgb(252, 241, 145);
-    padding-right: 20px;
+    padding-right: 80px;
 }
 
 .Green {
     padding-bottom: 80px;
+}
+.a {
+    margin-top: 20px;
 }
